@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Math Final",
+    "student_count": 80,
+    "duration": 2,
+    "scheduled_time": "2025-06-16T09:00:00",
+    "room": "A101"
+  },
+  {
+    "name": "Physics Final",
+    "student_count": 80,
+    "duration": 2,
+    "scheduled_time": "2025-06-16T12:00:00",
+    "room": "A101"
+  },
+  {
+    "name": "Chem Final",
+    "student_count": 80,
+    "duration": 2,
+    "scheduled_time": "2025-06-16T15:00:00",
+    "room": "A101"
+  },
+  {
+    "name": "Psychology Final",
+    "student_count": 15,
+    "duration": 2,
+    "scheduled_time": "2025-06-16T09:00:00",
+    "room": "B202"
+  }
+]
